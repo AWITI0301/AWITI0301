@@ -9,7 +9,7 @@ Dedicated and efficient full stack developer with experience in application laye
 * 🌍  I'm based in KENYA
 * 🖥️  See my portfolio at [JOHN OKETCH AWITI](http://github.com/AWITI0301?)
 * ✉️  You can contact me at [johnoketchawiti@gmail.com](mailto:johnoketchawiti@gmail.com)
-* 🧠  I'm learning Ruby On Rails
+* 🧠  I'm currently learning  PHP
 
 <a href="https://www.twitter.com/mark_ardent" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mark_ardent?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
