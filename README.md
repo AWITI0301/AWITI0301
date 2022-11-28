@@ -6,10 +6,10 @@ Full Stack Web Developer
 
 Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in HTML, CSS, Javasript,React, Ruby, Ruby On Rails. Developed full-stack web applications which processed, analyzed, and rendered data visually. Managing time-sensitive updates, including content changes and database upgrades. Key Skills Full Stack Developer HTML, CSS, JavaScript, Bootstrap & Angular JS SQL Databases
 
-* 🌍  I'm based in KENYA
+* 🌍  I'm based in Nairobi, KENYA
 * 🖥️  See my portfolio at [JOHN OKETCH AWITI](http://github.com/AWITI0301?)
-* ✉️  You can contact me at [johnoketchawiti@gmail.com](mailto:johnoketchawiti@gmail.com)
-* 🧠  I'm currently learning  PHP
+* ✉️  You can contact me at [johnoketch0301@gmail.com](mailto:johnoketch0301@gmail.com)
+* 🧠  I'm currently learning  PHP and Python 
 
 <a href="https://www.twitter.com/mark_ardent" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mark_ardent?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
